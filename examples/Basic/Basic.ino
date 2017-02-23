@@ -26,10 +26,13 @@
 
 #include <MotorShieldR3.h>
 
+
+void setup() {
+
+
 motorEnableA(); // Enables Motor A on the Shield (Motor A Uses Pins - 12, 3, 9, A0)
 motorEnableB(); // Enables Motor A on the Shield (Motor B Uses Pins - 13, 11, 8, A1)
 
-void setup() {
 
 // Open Serial communication
   Serial.begin(9600);
