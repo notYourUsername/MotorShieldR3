@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For MotorShieldR3
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MotorShieldR3 KEYWORD1
+motorEnableA KEYWORD1
+motorEnableB KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+motorDriveA KEYWORD2
+motorBrakeOnA KEYWORD2
+motorBrakeOffA KEYWORD2
+motorStopA KEYWORD2
+motorCurrentA KEYWORD2
+motorDriveB KEYWORD2
+motorBrakeOnB KEYWORD2
+motorBrakeOffB KEYWORD2
+motorStopB KEYWORD2
+motorCurrentB KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
